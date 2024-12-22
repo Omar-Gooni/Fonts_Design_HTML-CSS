@@ -1,0 +1,27 @@
+body{
+    background: rgb(208, 232, 218);
+}
+*{
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    font-weight: 900;
+    font-family: sans-serif;
+
+}
+#W{
+    color: blueviolet;
+    text-shadow: 5px 5px 0px rgb(231, 72, 220),5px 5px 0px rgb(231, 72, 220),5px 5px 0px rgb(231, 72, 220),5px 5px 0px rgb(231, 72, 220),5px 5px 0px rgb(231, 72, 220),5px 5px 0px rgb(231, 72, 220),5px 5px 0px rgb(231, 72, 220),5px 5px 0px rgb(231, 72, 220),5px 5px 0px rgb(231, 72, 220),5px 5px 0px rgb(231, 72, 220),5px 5px 0px rgb(231, 72, 220);
+}
+#S{
+    color: yellow;
+    text-shadow: 5px 5px 0px green,5px 5px 0px green,5px 5px 0px green,5px 5px 0px green,5px 5px 0px green,5px 5px 0px green,5px 5px 0px green,5px 5px 0px green,10px 5px 0px green,5px 5px 0px green,5px 5px 0px green,5px 5px 0px green;
+}
+#A{
+    color: rgb(234, 72, 23);
+    text-shadow: 5px 5px 0px orange,5px 5px 0px orange,5px 5px 0px orange,5px 5px 0px orange,5px 5px 0px orange,5px 5px 0px orange,5px 5px 0px orange,5px 5px 0px orange,10px 5px 0px orange,5px 5px 0px orange,5px 5px 0px orange;
+}
+#O{
+    color: orange;
+    text-shadow: 5px 5px 0px rgb(234, 72, 23),5px 5px 0px rgb(234, 72, 23),5px 5px 0px rgb(234, 72, 23),5px 5px 0px rgb(234, 72, 23),5px 5px 0px rgb(234, 72, 23),5px 5px 0px rgb(234, 72, 23),5px 5px 0px rgb(234, 72, 23),5px 5px 0px rgb(234, 72, 23);
+}
